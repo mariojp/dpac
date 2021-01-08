@@ -3,7 +3,7 @@ layout: post
 title:  "Soul"
 author: dpac
 categories: [ blog, Para Ver ]
-image: "https://pt.wikipedia.org/wiki/Soul_(filme)#/media/Ficheiro:Soul_ver5.jpg"
+image: "https://upload.wikimedia.org/wikipedia/pt/1/17/Soul_ver5.jpg"
 tags: [ pixar, disneyplusbr, disneyplus, propósito, sentidodavida, soul, pixarsoul, equidade, sororidade ]
 ---
 
