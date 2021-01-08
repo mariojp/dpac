@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  apac:
+  dpac:
     name: Do Prefácio Aos Créditos
     display_name: Do Prefácio Aos Créditos    
     avatar: 'assets/images/avatar.png'
