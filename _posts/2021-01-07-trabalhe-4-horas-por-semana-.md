@@ -3,7 +3,7 @@ layout: post
 title:  "Como assim trabalhe 4 horas por semana?"
 author: dpac
 categories: [ Para Ler, blog ]
-image: assets/images/14.jpg
+image: "https://upload.wikimedia.org/wikipedia/en/c/c3/The_4-Hour_Workweek_%28front_cover%29.jpg"
 tags: [ 4hourworkweek, trabalhe4horasporsemana, empreendedorismo ]
 ---
 
