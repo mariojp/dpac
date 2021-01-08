@@ -3,7 +3,7 @@ layout: post
 title:  "Tudo Bem no Natal que Vem"
 author: dpac
 categories: [ blog, Para Ver ]
-image: assets/images/12.jpg
+image: "https://upload.wikimedia.org/wikipedia/pt/d/d1/Tudo_Bem_No_Natal_Que_Vem.jpg"
 tags: [leandrohassum , netflixbrasil , netflix , filmesdenatal , comedia, segundachance ]
 featured: true
 hidden: true
